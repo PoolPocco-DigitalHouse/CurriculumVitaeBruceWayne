@@ -1,0 +1,26 @@
+header {
+    position: relative;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+header > img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase; 
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase; 
+    font-family: "Times New Roman";
+    text-align: center;
+}
