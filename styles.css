@@ -14,8 +14,8 @@ header > img {
 }
 
 h1 {
-    background-color: #C4C4C4;
-    color: #005677;
+    background-color: #3d86e6;
+    color: #E6E6E6;
     text-transform: uppercase; 
     font-family: "Times New Roman";
     text-align: center;
@@ -23,8 +23,8 @@ h1 {
 }
 
 h2 {
-    background-color: #C4C4C4;
-    color: #005677;
+    background-color: #3d86e6;
+    color: #E6E6E6;
     text-transform: uppercase; 
     font-family: "Times New Roman";
     text-align: center;
@@ -36,7 +36,7 @@ section li span {
 }
 
 footer {
-    background-color: #005677;
+    background-color: #3d86e6;
     color: white; 
     font-family: "Times New Roman";
     text-align: center;
